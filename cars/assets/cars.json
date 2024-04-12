@@ -1,0 +1,30 @@
+[
+    {
+      "id": "1",
+      "brand": "Toyota",
+      "model": "Corolla",
+      "image": "assets/images/toyota_corolla.jpg",
+      "price": "$20,000",
+      "milage": "30,000 miles",
+      "description": "A reliable sedan with great fuel efficiency."
+    },
+    {
+      "id": "2",
+      "brand": "Honda",
+      "model": "Civic",
+      "image": "assets/images/honda_civic.jpg",
+      "price": "$22,000",
+      "milage": "25,000 miles",
+      "description": "Sporty design with excellent handling."
+    },
+    {
+      "id": "3",
+      "brand": "Ford",
+      "model": "Mustang",
+      "image": "assets/images/ford_mustang.jpg",
+      "price": "$35,000",
+      "milage": "20,000 miles",
+      "description": "Iconic muscle car with powerful performance."
+    }
+  ]
+  
